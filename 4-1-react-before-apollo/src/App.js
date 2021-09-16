@@ -1,3 +1,5 @@
+// 1-3 directory  nodemon index.js or npm start
+
 import './App.css';
 import React, { useState } from 'react';
 import { ApolloProvider } from '@apollo/client';
