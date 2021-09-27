@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test"
   },
-  "author": "yalco",
+  "author": "nill",
   "license": "ISC",
   "dependencies": {
     "convert-csv-to-json": "^1.0.0",
